@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://somosmaplu.com.br/sitemap.xml

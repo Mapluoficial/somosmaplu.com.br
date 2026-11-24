@@ -1,0 +1,166 @@
+{
+  "data": "2026-11-24",
+  "resumo": [
+    "Câmara aprova pacote fiscal: economia estimada de R$ 45 bi a R$ 56 bi em 2027, com corte de gasto e mais arrecadação.",
+    "Dólar passa de R$ 6 durante o dia pela primeira vez desde 2025 e fecha a R$ 5,93.",
+    "Dívidas atrasadas de famílias e empresas batem recorde: R$ 371,1 bilhões.",
+    "Mercado eleva inflação de 2026 para 5,15% e vê Selic em 13% no fim de 2027.",
+    "Black Friday é nesta sexta (27). Compra on-line tem 7 dias para arrependimento."
+  ],
+  "indicadores": [
+    {"nome": "Selic", "valor": "13,75%", "obs": "ao ano"},
+    {"nome": "IPCA 2026", "valor": "5,15%", "obs": "projeção Focus"},
+    {"nome": "Ibovespa", "valor": "164.796", "obs": "−0,95% em 23/11"},
+    {"nome": "PIB 2026", "valor": "1,70%", "obs": "projeção Focus"}
+  ],
+  "materias": [
+    {
+      "slug": "camara-aprova-pacote-fiscal-2027",
+      "editoria": "Contas públicas",
+      "destaque": true,
+      "titulo": "Câmara aprova pacote fiscal. Parte do “ajuste” sai do seu bolso",
+      "linha_fina": "Texto aprovado na noite de segunda (23) mistura corte de despesas com aumento de arrecadação e promete economia de R$ 45,1 bi a R$ 56,1 bi em 2027.",
+      "img": "congresso-20261124.jpg",
+      "credito": "Congresso Nacional, Brasília. Imagem ilustrativa: Unsplash",
+      "texto": [
+        "A Câmara dos Deputados aprovou na noite de segunda-feira (23) o pacote de ajuste fiscal do governo. A economia estimada para 2027 fica entre R$ 45,1 bilhões e R$ 56,1 bilhões, segundo os números repercutidos pelo mercado nesta terça.",
+        "O detalhe que importa: o pacote não é só corte de gasto. Ele combina redução de despesas com aumento de arrecadação. Traduzindo, parte do equilíbrio das contas vem de cobrar mais de quem já paga.",
+        "O objetivo declarado é garantir um superávit primário de cerca de R$ 18,7 bilhões no ano que vem.",
+        "O mercado já tinha precificado a aprovação. Mesmo assim, o dólar passou de R$ 6 durante o pregão de segunda, sinal de que a desconfiança com as contas públicas continua."
+      ],
+      "bolso": "Quando o governo fecha a conta aumentando receita, alguém paga. Vale acompanhar quais itens de arrecadação entram no texto final para saber se a fatura chega ao consumidor, ao MEI ou ao investidor.",
+      "fontes": [
+        {"nome": "Money Times", "url": "https://www.moneytimes.com.br/aprovacao-do-pacote-fiscal-e-plano-da-petrobras-movimentam-bolsa-ibovespa-em-dolar-cai-nesta-terca-feira-24-rens/"},
+        {"nome": "Exame", "url": "https://exame.com/invest/mercados/ibovespa-hoje-24-11-2026/"}
+      ]
+    },
+    {
+      "slug": "dolar-bate-6-reais-fecha-5-92",
+      "editoria": "Mercado",
+      "titulo": "Dólar bate R$ 6 pela primeira vez desde 2025 e só recua no fim do dia",
+      "linha_fina": "Moeda fechou a segunda (23) a R$ 5,9262. Ibovespa caiu 0,95%, aos 164.796 pontos.",
+      "img": "dolar-20261124.jpg",
+      "credito": "Imagem ilustrativa: Unsplash",
+      "texto": [
+        "O dólar à vista ultrapassou R$ 6,00 durante o pregão de segunda-feira (23), o maior patamar desde 2025. No fechamento, recuou 0,15% e terminou a R$ 5,9262.",
+        "O pano de fundo é a preocupação com as contas públicas, enquanto a Câmara votava o pacote fiscal. Os juros futuros vêm subindo nos últimos pregões.",
+        "Na Bolsa, o Ibovespa caiu 0,95% e fechou aos 164.796,05 pontos."
+      ],
+      "bolso": "Dólar alto encarece importados, eletrônicos, viagens e, com algum atraso, combustível e comida. Quem tem viagem ou compra em dólar marcada costuma diluir a compra da moeda em várias datas para não depender de um dia só.",
+      "fontes": [
+        {"nome": "CNN Brasil", "url": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-23-novembro-2026/"},
+        {"nome": "Money Times", "url": "https://www.moneytimes.com.br/aprovacao-do-pacote-fiscal-e-plano-da-petrobras-movimentam-bolsa-ibovespa-em-dolar-cai-nesta-terca-feira-24-rens/"}
+      ]
+    },
+    {
+      "slug": "inadimplencia-recorde-371-bilhoes",
+      "editoria": "Seu bolso",
+      "titulo": "R$ 371 bilhões em atraso: o Brasil nunca deveu tanto sem conseguir pagar",
+      "linha_fina": "Dívidas com mais de 90 dias de atraso cresceram 26,7% em um ano, maior valor da série iniciada em 2011.",
+      "img": "dividas-20261124.jpg",
+      "credito": "Imagem ilustrativa: Pexels",
+      "texto": [
+        "O volume de dívidas em atraso de famílias e empresas chegou a R$ 371,1 bilhões no terceiro trimestre de 2026, segundo levantamento da FecomercioSP com dados do Banco Central. É o maior valor desde o início da série, em 2011.",
+        "As famílias respondem por R$ 280,6 bilhões, alta de 28,7% em um ano. A taxa de inadimplência delas subiu de 4,9% para 6%. As empresas devem R$ 90,5 bilhões em atraso, alta de 20,6%.",
+        "O levantamento considera apenas dívidas com mais de 90 dias sem pagamento, corrigidas pela inflação. Para a FecomercioSP, o principal motivo são os juros altos por tempo prolongado. A Selic está em 13,75% ao ano."
+      ],
+      "bolso": "Se você está nessa conta, a ordem é atacar primeiro o que cobra mais juros: rotativo do cartão e cheque especial. Antes de pegar um empréstimo novo para pagar o antigo, vale tentar renegociar direto com o credor.",
+      "fontes": [
+        {"nome": "Times Brasil / CNBC", "url": "https://timesbrasil.com.br/brasil/inadimplencia-de-familias-e-empresas-bate-recorde/"}
+      ]
+    },
+    {
+      "slug": "focus-ipca-5-15-selic-2027",
+      "editoria": "Juros e inflação",
+      "titulo": "Mercado vê inflação maior e juro alto por mais tempo. Galípolo: “cenário mais difícil”",
+      "linha_fina": "Boletim Focus eleva IPCA de 2026 para 5,15% e a Selic do fim de 2027 para 13%.",
+      "img": "focus-20261124.jpg",
+      "credito": "Imagem ilustrativa: Pexels",
+      "texto": [
+        "O Boletim Focus, que reúne as projeções do mercado, elevou a estimativa de inflação de 2026 de 5,11% para 5,15%. Para 2027, a projeção subiu de 5,00% para 5,12%.",
+        "A Selic deve terminar 2026 em 13,75% ao ano e 2027 em 13,00% (antes, o mercado esperava 12,75%). A projeção de crescimento do PIB de 2026 caiu de 1,72% para 1,70%.",
+        "Em evento na segunda (23), o presidente do Banco Central, Gabriel Galípolo, disse ver um cenário mais difícil que o de 2025 e 2026 e afirmou que a estabilidade de preços é o mandato principal do BC. Ele também considerou contraproducente dar pistas sobre os próximos passos dos juros."
+      ],
+      "bolso": "Juro alto por mais tempo mantém caro o crédito, do cartão ao financiamento. Por outro lado, segue favorecendo quem tem dinheiro aplicado em renda fixa atrelada à Selic ou ao CDI.",
+      "fontes": [
+        {"nome": "Piranot (Focus e Galípolo)", "url": "https://www.piranot.com.br/2026/11/24/noticias/economia/galipolo-focus-ipca-selic/"}
+      ]
+    },
+    {
+      "slug": "impostometro-3-6-trilhoes-retorno",
+      "editoria": "Impostos",
+      "titulo": "R$ 3,6 trilhões em impostos. E o Brasil segue em último no retorno à população",
+      "linha_fina": "Carga tributária bateu recorde de 32,4% do PIB em 2025. Entre os 30 países que mais cobram, nenhum devolve menos em bem-estar.",
+      "img": "impostos-20261124.jpg",
+      "credito": "Congresso Nacional, Brasília. Imagem ilustrativa: Unsplash",
+      "texto": [
+        "De 1º de janeiro a 19 de novembro, os brasileiros pagaram cerca de R$ 3,6 trilhões em impostos, taxas e contribuições nas três esferas de governo, segundo o Impostômetro da Associação Comercial de São Paulo.",
+        "Dividido pela população, dá perto de R$ 17 mil por habitante no ano (cálculo da MAPLU, com cerca de 213 milhões de pessoas).",
+        "Segundo o Tesouro Nacional, a carga tributária bruta chegou a 32,4% do PIB em 2025, recorde da série. Em 2023, era 30,3%.",
+        "E o retorno? No estudo IRBES, do IBPT, que cruza carga tributária e IDH, o Brasil ficou em último lugar entre os 30 países de maior carga, posição que ocupa desde a primeira edição do levantamento."
+      ],
+      "bolso": "Toda nota fiscal precisa mostrar o valor aproximado de impostos embutido no preço (Lei 12.741/2012). Vale olhar: é o jeito mais rápido de ver quanto da sua compra vai para o governo.",
+      "fontes": [
+        {"nome": "Consumidor Moderno (Impostômetro)", "url": "https://consumidormoderno.com.br/gastos-publicos-2026-arrecadacao-impostos/"},
+        {"nome": "CNN Brasil (Tesouro Nacional)", "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/com-ir-e-iof-carga-tributaria-bate-recorde-e-chega-a-324-do-pib/"},
+        {"nome": "IBPT (IRBES)", "url": "https://ibpt.org.br/estudo-irbes-14a-edicao-idh-e-carga-tributaria-pib-dados-de-2023-maio-2025/"}
+      ]
+    },
+    {
+      "slug": "petrobras-plano-122-bilhoes",
+      "editoria": "Empresas",
+      "titulo": "Petrobras promete US$ 122 bilhões em investimentos e mais dividendos até 2031",
+      "linha_fina": "Plano de negócios 2027-2031 prevê US$ 55 bi a US$ 60 bi em dividendos ordinários, cerca de US$ 10 bi acima do plano anterior.",
+      "img": "petroleo-20261124.jpg",
+      "credito": "Imagem ilustrativa: Unsplash",
+      "texto": [
+        "A Petrobras divulgou na noite de segunda (23) o Plano de Negócios 2027-2031, com investimentos de US$ 122 bilhões em cinco anos: US$ 113 bilhões em projetos em implantação e US$ 9 bilhões em uma carteira ainda em avaliação.",
+        "A estatal projeta pagar entre US$ 55 bilhões e US$ 60 bilhões em dividendos ordinários no período, cerca de US$ 10 bilhões a mais que no plano anterior. O foco segue no pré-sal.",
+        "Os recibos de ações da empresa negociados em Nova York (ADRs) caíram no pré-mercado desta terça."
+      ],
+      "bolso": "Como a União é a maior acionista, dividendo da Petrobras também vira receita do governo. Para quem investe, o plano reforça a empresa como pagadora de dividendos, mas o preço da ação também depende do petróleo e de decisões políticas.",
+      "fontes": [
+        {"nome": "Money Times", "url": "https://www.moneytimes.com.br/aprovacao-do-pacote-fiscal-e-plano-da-petrobras-movimentam-bolsa-ibovespa-em-dolar-cai-nesta-terca-feira-24-rens/"},
+        {"nome": "Exame", "url": "https://exame.com/invest/mercados/ibovespa-hoje-24-11-2026/"}
+      ]
+    },
+    {
+      "slug": "gta-6-61-horas-de-trabalho",
+      "editoria": "Consumo",
+      "titulo": "GTA 6 custa 61 horas de salário mínimo no Brasil. Nos EUA, 11",
+      "linha_fina": "Jogo vendeu US$ 3,79 bilhões no primeiro dia. Aqui, a edição Standard sai por R$ 449,90, e cerca de 28% disso é imposto, segundo estimativa.",
+      "img": "gta6-20261124.jpg",
+      "credito": "Imagem ilustrativa: Unsplash",
+      "texto": [
+        "GTA 6 chegou em 19 de novembro e, segundo a Take-Two, movimentou US$ 3,79 bilhões em vendas no primeiro dia. No Brasil, a edição Standard custa R$ 449,90 e a Ultimate, R$ 549,90, nas lojas digitais de PlayStation e Xbox.",
+        "Com o salário mínimo de R$ 1.621 (cerca de R$ 7,37 por hora), são cerca de 61 horas de trabalho para comprar o jogo. Nos EUA, o jogo custa US$ 79,99, ou cerca de 11 horas no salário mínimo federal de US$ 7,25.",
+        "A consultoria Tax Group estima que cerca de 28% do preço final seja imposto, algo como R$ 126 no preço de R$ 449,90. Nas vendas on-line, o preço médio pago foi R$ 404,95, segundo levantamento com dados da Logan e da Neotrust."
+      ],
+      "bolso": "Compare entre lojas antes de comprar: o preço médio já saiu cerca de R$ 45 abaixo do cheio. A versão em caixa vem só com código de download, sem disco.",
+      "fontes": [
+        {"nome": "Olhar Digital", "url": "https://olhardigital.com.br/2026/11/19/games-e-consoles/gta-6-lancamento-preco-brasil-plataformas-onde-comprar/"},
+        {"nome": "Game Overdrive", "url": "https://gameoverdrive.com.br/gta-6-quantas-copias-vendeu-2/"},
+        {"nome": "Tax Group", "url": "https://www.taxgroup.com.br/intelligence/gta-6-no-brasil-preco-projetado-carga-tributaria-e-o-impacto-da-reforma/"}
+      ]
+    },
+    {
+      "slug": "black-friday-27-novembro-direitos",
+      "editoria": "Seu bolso",
+      "titulo": "Black Friday é nesta sexta. O que a lei garante (e o que a loja não conta)",
+      "linha_fina": "Data oficial é 27 de novembro. Compra feita fora da loja física tem 7 dias para desistir, sem precisar explicar.",
+      "img": "blackfriday-20261124.jpg",
+      "credito": "Imagem ilustrativa: Unsplash",
+      "texto": [
+        "A Black Friday de 2026 cai nesta sexta-feira, 27 de novembro, mas muitas lojas físicas e on-line já anteciparam ofertas ao longo do mês.",
+        "Pelo Código de Defesa do Consumidor (artigo 49), toda compra feita fora do estabelecimento, como pela internet, telefone ou aplicativo, pode ser cancelada em até 7 dias a partir do recebimento, com devolução integral do valor, inclusive do frete.",
+        "Os Procons alertam para o desconto falso, a famosa “metade do dobro”: produto que tem o preço aumentado semanas antes para parecer barato na data. Também vale desconfiar de pagamento por Pix para sites desconhecidos e de ofertas boas demais em redes sociais."
+      ],
+      "bolso": "Antes de comprar, consulte o histórico de preço do produto em comparadores, some o frete ao total e verifique o CNPJ e a reputação da loja. Parcelamento “sem juros” só compensa se a parcela couber no orçamento sem virar rotativo.",
+      "fontes": [
+        {"nome": "Gazeta do Povo", "url": "https://www.gazetadopovo.com.br/economia/quando-e-a-black-friday-2026-veja-data/"},
+        {"nome": "NSC Total", "url": "https://www.nsctotal.com.br/economia/black-friday-2026-ofertas-antecipadas"},
+        {"nome": "Código de Defesa do Consumidor (Planalto)", "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"}
+      ]
+    }
+  ]
+}
