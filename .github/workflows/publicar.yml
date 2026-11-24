@@ -28,7 +28,7 @@ jobs:
         run: |
           mkdir _site
           rsync -a --exclude '_site' --exclude '_dados' --exclude '_tools' --exclude '.github' --exclude '.git' --exclude 'README.md' ./ _site/
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: _site
       - id: deploy
